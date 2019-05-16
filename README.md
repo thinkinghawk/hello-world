@@ -1,4 +1,4 @@
 # hello-world
 Github Training
 
-Testing the branch fubction.
+Testing the branch function.
